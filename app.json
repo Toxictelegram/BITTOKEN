@@ -1,7 +1,7 @@
 {
-    "name": "Spam Bot",
+    "name": " TOXIC Spam Bot",
     "description": "Best Spamming Bots",
-    "logo": "https://telegra.ph/file/8626f33867fc155eaa404.jpg",
+    "logo": "https://telegra.ph/file/dab32b1a3f960eb5ba5c6.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -9,7 +9,7 @@
         "Ustad-op",
         "SpamBots"
     ],
-    "repository": "https://t.me/TheMikasa",
+    "repository": "https://github.com/Toxictelegram/BITTOKEN",
     "website": "https://t.me/TheMikasa",
     "success_url": "https://t.me/TheMikasa",
     "env": {
